@@ -100,7 +100,7 @@ h1 a {
   font-size: 18px;
 }
 
-//.accordion ul:after {
+/*.accordion ul:after {
     position: absolute;
     left: 91%;
     top: -12px;
@@ -111,7 +111,7 @@ h1 a {
     border-right: 12px solid transparent;
     border-bottom: 12px solid white;
 	}
-	
+	*/
 	.submenu li:first-child a:after {
     position: absolute;
     left: 91%;
